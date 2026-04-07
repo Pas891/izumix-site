@@ -188,27 +188,27 @@ td, th {
 }
 
 .w-icon-slider-right:before {
-  content: "";
+  content: "оЂ";
 }
 
 .w-icon-slider-left:before {
-  content: "";
+  content: "оЃ";
 }
 
 .w-icon-nav-menu:before {
-  content: "";
+  content: "о‚";
 }
 
 .w-icon-arrow-down:before, .w-icon-dropdown-toggle:before {
-  content: "";
+  content: "оѓ";
 }
 
 .w-icon-file-upload-remove:before {
-  content: "";
+  content: "о¤Ђ";
 }
 
 .w-icon-file-upload-icon:before {
-  content: "";
+  content: "о¤ѓ";
 }
 
 * {
